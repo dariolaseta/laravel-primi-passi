@@ -7,6 +7,6 @@
         <title>Laravel primi passi</title>
     </head>
     <body>
-        <h1>Hello world!</h1>
+        <h1>{{ $hello }}</h1>
     </body>
 </html>
